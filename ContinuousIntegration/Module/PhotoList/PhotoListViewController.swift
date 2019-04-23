@@ -1,9 +1,9 @@
 //
 //  EventListViewController.swift
-//  MVVMPlayground
+//  ContinuousIntegration
 //
-//  Created by Neo on 01/10/2017.
-//  Copyright © 2017 ST.Huang. All rights reserved.
+//  Created by Maximilian Sonntag on 03/15/2019.
+//  Copyright © 2019 Sonntag. All rights reserved.
 //
 
 import UIKit

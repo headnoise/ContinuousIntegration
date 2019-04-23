@@ -3,7 +3,7 @@
 //  ContinuousIntegration
 //
 //  Created by Maximilian Sonntag on 4/23/19.
-//  Copyright © 2019 maximiliansonntag. All rights reserved.
+//  Copyright © 2019 Sonntag. All rights reserved.
 //
 
 import UIKit
