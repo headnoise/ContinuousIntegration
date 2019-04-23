@@ -1,0 +1,6 @@
+framework module Pods_ContinuousIntegration {
+  umbrella header "Pods-ContinuousIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}

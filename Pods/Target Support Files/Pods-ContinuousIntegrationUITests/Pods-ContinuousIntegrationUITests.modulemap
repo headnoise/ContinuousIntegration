@@ -1,0 +1,6 @@
+framework module Pods_ContinuousIntegrationUITests {
+  umbrella header "Pods-ContinuousIntegrationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
