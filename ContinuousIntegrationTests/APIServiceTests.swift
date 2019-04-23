@@ -1,13 +1,13 @@
 //
 //  APIServiceTests.swift
-//  MVVMPlaygroundTests
+//  ContinuousIntegrationTests
 //
-//  Created by Neo on 01/10/2017.
-//  Copyright © 2017 ST.Huang. All rights reserved.
+//  Created by Maximilian Sonntag on 04/14/2019.
+//  Copyright © 2019 Sonntag. All rights reserved.
 //
 
 import XCTest
-@testable import MVVMPlayground
+@testable import ContinuousIntegration
 
 class APIServiceTests: XCTestCase {
     

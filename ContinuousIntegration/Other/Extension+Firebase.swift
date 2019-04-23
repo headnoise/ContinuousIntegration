@@ -1,6 +1,6 @@
 //
 //  Extension+Firebase.swift
-//  MVVMPlayground
+//  ContinuousIntegration
 //
 //  Created by Maximilian Sonntag on 4/22/19.
 //  Copyright © 2019 Sonntag. All rights reserved.
